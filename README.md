@@ -1,6 +1,4 @@
 # MultiplayerRunner
 Running race between local area network players. 
 
-<video src="gameplay.mp4" width="320" height="200" controls preload></video>
-
-This is the gameplay
+[![For Gameplay Click here](https://img.youtube.com/vi/-YGYuJfj5Uw/0.jpg)](https://www.youtube.com/watch?v=-YGYuJfj5Uw)
